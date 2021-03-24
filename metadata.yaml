@@ -1,0 +1,26 @@
+_repo: Mein-Weg-zu-Martin-Luther_64523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ohorn, Anton
+    birthdate: 1846
+    deathdate: 1924
+    gutenberg_agent_id: '50232'
+    url: http://www.gutenberg.org/2009/agents/50232
+    wikipedia: https://de.wikipedia.org/wiki/Anton_Ohorn
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64523'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Warum evangelisch?
+subjects:
+- !lcc 'BX'
+- !lcsh 'Ohorn, Anton, 1846-1924'
+- GITenberg
+title: Mein Weg zu Martin Luther
+url: http://www.gutenberg.org/ebooks/64523
