@@ -1,5 +1,8 @@
 _repo: Mein-Weg-zu-Martin-Luther_64523
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64523-h/images/cover.jpg
 creator:
   author:
     agent_name: Ohorn, Anton
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50232
     wikipedia: https://de.wikipedia.org/wiki/Anton_Ohorn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64523#Mein-Weg-zu-Martin-Luther
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
